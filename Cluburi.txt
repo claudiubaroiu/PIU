@@ -1,11 +1,1 @@
-1;sdsfsf;gfgfdgd;Negru;;23
-2;dcs;ds;Rosu;System.Collections.ArrayList;2
-3;df;df;Rosu;System.Collections.ArrayList System.Collections.ArrayList System.Collections.ArrayList System.Collections.ArrayList;2
-4;fds;vsfd;Rosu;;23
-5;dcs;fdg;Rosu;;23
-6;g;g;Rosu;;35
-7;w;f;Rosu;;3
-8;ds;frt;Rosu;;34
-9;sd;fe;Rosu;;23
-10;ew;fd;Rosu;;32
-11;ef;ew;Rosu;;34
+
