@@ -1,0 +1,24 @@
+D:\NivelStocareDate1\bin\Debug\NivelStocareDate1.exe.config
+D:\NivelStocareDate1\bin\Debug\NivelStocareDate1.exe
+D:\NivelStocareDate1\bin\Debug\NivelStocareDate1.pdb
+D:\NivelStocareDate1\bin\Debug\LibrarieModele.exe
+D:\NivelStocareDate1\bin\Debug\LibrarieModele.pdb
+D:\NivelStocareDate1\bin\Debug\LibrarieModele.exe.config
+D:\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.AssemblyReference.cache
+D:\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.SuggestedBindingRedirects.cache
+D:\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.CoreCompileInputs.cache
+D:\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.CopyComplete
+D:\NivelStocareDate1\obj\Debug\NivelStocareDate1.exe
+D:\NivelStocareDate1\obj\Debug\NivelStocareDate1.pdb
+D:\Proiect PIU\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.AssemblyReference.cache
+D:\Proiect PIU\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.SuggestedBindingRedirects.cache
+D:\Proiect PIU\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.CoreCompileInputs.cache
+D:\Proiect PIU\NivelStocareDate1\obj\Debug\NivelStocareDate1.exe
+D:\Proiect PIU\NivelStocareDate1\obj\Debug\NivelStocareDate1.pdb
+D:\Proiect PIU\NivelStocareDate1\bin\Debug\NivelStocareDate1.exe.config
+D:\Proiect PIU\NivelStocareDate1\bin\Debug\NivelStocareDate1.exe
+D:\Proiect PIU\NivelStocareDate1\bin\Debug\NivelStocareDate1.pdb
+D:\Proiect PIU\NivelStocareDate1\bin\Debug\LibrarieModele.exe
+D:\Proiect PIU\NivelStocareDate1\bin\Debug\LibrarieModele.pdb
+D:\Proiect PIU\NivelStocareDate1\bin\Debug\LibrarieModele.exe.config
+D:\Proiect PIU\NivelStocareDate1\obj\Debug\NivelStocareDate1.csproj.CopyComplete

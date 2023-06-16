@@ -1,0 +1,16 @@
+D:\LibrarieModele\bin\Debug\LibrarieModele.exe.config
+D:\LibrarieModele\bin\Debug\LibrarieModele.exe
+D:\LibrarieModele\bin\Debug\LibrarieModele.pdb
+D:\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+D:\LibrarieModele\obj\Debug\LibrarieModele.csproj.SuggestedBindingRedirects.cache
+D:\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\LibrarieModele\obj\Debug\LibrarieModele.exe
+D:\LibrarieModele\obj\Debug\LibrarieModele.pdb
+D:\Proiect PIU\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+D:\Proiect PIU\LibrarieModele\obj\Debug\LibrarieModele.csproj.SuggestedBindingRedirects.cache
+D:\Proiect PIU\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+D:\Proiect PIU\LibrarieModele\obj\Debug\LibrarieModele.exe
+D:\Proiect PIU\LibrarieModele\obj\Debug\LibrarieModele.pdb
+D:\Proiect PIU\LibrarieModele\bin\Debug\LibrarieModele.exe.config
+D:\Proiect PIU\LibrarieModele\bin\Debug\LibrarieModele.exe
+D:\Proiect PIU\LibrarieModele\bin\Debug\LibrarieModele.pdb

@@ -1,0 +1,3 @@
+22;steaua;
+10;Popescu;Adrian;
+34;dw;evb;

@@ -1,0 +1,17 @@
+D:\Tema\bin\Debug\Tema.exe.config
+D:\Tema\bin\Debug\Tema.exe
+D:\Tema\bin\Debug\Tema.pdb
+D:\Tema\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Tema\bin\Debug\System.Security.AccessControl.dll
+D:\Tema\bin\Debug\System.Security.Permissions.dll
+D:\Tema\bin\Debug\System.Security.Principal.Windows.dll
+D:\Tema\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Tema\bin\Debug\System.Security.AccessControl.xml
+D:\Tema\bin\Debug\System.Security.Permissions.xml
+D:\Tema\bin\Debug\System.Security.Principal.Windows.xml
+D:\Tema\obj\Debug\Tema.csproj.AssemblyReference.cache
+D:\Tema\obj\Debug\Tema.csproj.SuggestedBindingRedirects.cache
+D:\Tema\obj\Debug\Tema.csproj.CoreCompileInputs.cache
+D:\Tema\obj\Debug\Tema.csproj.CopyComplete
+D:\Tema\obj\Debug\Tema.exe
+D:\Tema\obj\Debug\Tema.pdb

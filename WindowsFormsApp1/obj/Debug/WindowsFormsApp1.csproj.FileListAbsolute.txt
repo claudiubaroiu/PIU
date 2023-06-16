@@ -1,0 +1,36 @@
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\bin\Debug\LibrarieModele.exe
+D:\WindowsFormsApp1\bin\Debug\NivelStocareDate1.exe
+D:\WindowsFormsApp1\bin\Debug\LibrarieModele.pdb
+D:\WindowsFormsApp1\bin\Debug\LibrarieModele.exe.config
+D:\WindowsFormsApp1\bin\Debug\NivelStocareDate1.pdb
+D:\WindowsFormsApp1\bin\Debug\NivelStocareDate1.exe.config
+D:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\LibrarieModele.exe
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\NivelStocareDate1.exe
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\LibrarieModele.pdb
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\LibrarieModele.exe.config
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\NivelStocareDate1.pdb
+D:\Proiect PIU\WindowsFormsApp1\bin\Debug\NivelStocareDate1.exe.config
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Proiect PIU\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
